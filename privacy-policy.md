@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Privacy Policy
 ---
 
 # Privacy Policy for AI Resume Optimizer
