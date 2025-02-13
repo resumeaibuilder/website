@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![AI Resume Optimizer Icon](/images/32x32.jpg)
+<img src="images/32x32.jpg" alt="AI Resume Optimizer Icon" height="120" width="120">
 
 # 🚀 AI Resume Optimizer – AI-Powered Resume Enhancement for Google Docs™ (100% Free!)
 
