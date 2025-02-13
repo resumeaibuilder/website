@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # AI Resume Optimizer – Support & FAQs
 
 ## 📞 How Can We Help You?

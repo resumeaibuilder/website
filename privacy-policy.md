@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # Privacy Policy for AI Resume Optimizer
 
 **Last updated:** 02/11/2025
