@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Support & FAQs
 ---
 
 # AI Resume Optimizer – Support & FAQs

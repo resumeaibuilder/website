@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Terms of Service
 ---
 
 # Terms of Service for AI Resume Optimizer
