@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+![AI Resume Optimizer Icon](/images/icon.png)
+
 # 🚀 AI Resume Optimizer – AI-Powered Resume Enhancement for Google Docs™ (100% Free!)
 
 AI Resume Optimizer is a **free Google Docs™ add-on** that enhances resumes using **AI-driven improvements** and **ATS-friendly analysis**. Designed for job seekers and professionals, it helps tailor resumes to job descriptions, ensuring better readability, keyword alignment, and increased visibility in **Applicant Tracking Systems (ATS)**—**at no cost**.
