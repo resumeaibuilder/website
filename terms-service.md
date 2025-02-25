@@ -16,7 +16,7 @@ If you **do not agree**, please **do not use** this add-on.
 ---
 
 ## 2. Description of Service
-**AI Resume Optimizer** is a **Google Docs add-on** that enhances resumes by:
+**AI Resume Optimizer** is a **Google Docs™ add-on** that enhances resumes by:
 
 - ✍️ **Rewriting text** using **AI (Gemini API)**.
 - ✅ **Analyzing resumes** for **ATS compliance**.
@@ -34,7 +34,7 @@ By using this add-on, you agree that:
 ---
 
 ## 4. API Usage & Limitations
-- **AI Resume Optimizer** relies on **Google APIs** (*Google Docs API, Apps Script API, Gemini API*).
+- **AI Resume Optimizer** relies on **Google APIs** (*Google Docs™ API, Apps Script API, Gemini API*).
 - The service **may be subject to API limits and quotas** imposed by **Google**.
 - We are **not responsible** for service interruptions due to **Google API rate limits**.
 

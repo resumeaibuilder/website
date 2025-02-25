@@ -13,12 +13,12 @@ Welcome to the **AI Resume Optimizer Support Page**! Here, you’ll find answers
 ## 💡 Frequently Asked Questions (FAQs)
 
 ### 1. How do I install AI Resume Optimizer?
-1. Open **Google Docs**.
+1. Open **Google Docs™**.
 2. Click **Extensions** > **Add-ons** > **Get add-ons**.
 3. Search for **"AI Resume Optimizer"** and click **Install**.
 
 ### 2. How do I use the add-on?
-- Open a **Google Docs file** containing your resume.
+- Open a **Google Docs™ file** containing your resume.
 - Click **Extensions** > **AI Resume Optimizer**.
 - Choose **"Optimize Resume"** or **"Analyze Resume"** and follow the prompts.
 
@@ -26,7 +26,7 @@ Welcome to the **AI Resume Optimizer Support Page**! Here, you’ll find answers
 - ❌ No. The add-on processes text **locally** and **does not store or share** your resume data.
 
 ### 4. Why am I getting an API error?
-- The **Gemini API** or **Google Docs API** may be experiencing **high demand**.
+- The **Gemini API** or **Google Docs™ API** may be experiencing **high demand**.
 - If issues persist, **try again later** or **contact support**.
 
 ---
